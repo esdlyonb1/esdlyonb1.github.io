@@ -1,0 +1,50 @@
+.boite{
+    background-color: red;
+    height: 30px;
+    width: 50px;
+    margin-bottom: 10px;
+}
+
+.verte{
+    background-color: green;
+    
+}
+
+.grandeBoite{
+
+    border: 4px black solid;    
+
+    margin : 50px ;
+    padding: 10px;
+    
+}
+.container{
+
+    border: 1px solid black;
+    height:80vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    
+}
+
+/* 50 pixels de diametre*/
+.cercle{
+
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+
+}
+.vert{
+    background-color: green;
+}
+.rouge{
+    background-color: red;
+}
+.bleu{
+    background-color: blue;
+}
